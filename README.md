@@ -1,7 +1,9 @@
 # SQL-week2-Assignment
 
 **Name :** Young Odhiambo
+
 **Date :**
+
 **Database :** PostgreSQL
 
 
